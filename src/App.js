@@ -18,7 +18,6 @@ function App() {
       <div className='linha'>
         <Intervalo 
         ></Intervalo>
-        <Incremento />
        
       </div>
       <div className='linha'>
