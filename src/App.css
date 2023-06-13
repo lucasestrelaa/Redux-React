@@ -14,4 +14,5 @@ h1{
 .teste{
   color: #000;
   text-align: center;
+  border: 1px solid #000;
 }
